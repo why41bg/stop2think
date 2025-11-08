@@ -1,7 +1,7 @@
 baseURL = 'https://stop2think.top/'
 languageCode = 'en-us'
 title = 'STOP2THINK'
-theme = "Papermod"
+theme = "PaperMod"
 
 [caches]
   [caches.images]
