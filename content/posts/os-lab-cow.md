@@ -1,7 +1,7 @@
 +++
 date = '2025-11-08T20:14:01+08:00'
 draft = false
-title = 'Os Lab Cow'
+title = 'MIT 6.S081 Lab: Copy On Write'
 tags = ['MIT 6.S081']
 +++
 
